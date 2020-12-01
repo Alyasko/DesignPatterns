@@ -1,0 +1,3 @@
+# Abstract Factory 
+
+![](https://refactoring.guru/images/patterns/diagrams/abstract-factory/example-2x.png)
